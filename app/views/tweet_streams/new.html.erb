@@ -1,0 +1,5 @@
+<%= form_tag(tweet_streams_path) do %>
+  <%= label_tag "enter twitter handle" %>
+  <%= text_field_tag("twitter_handle")  %>
+  <%= submit_tag "show tweets" %>
+<% end %>
