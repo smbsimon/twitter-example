@@ -1,1 +1,1 @@
-# twitter-example
+This is a quick little example app to practice working with the Twitter API.
